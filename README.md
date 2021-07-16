@@ -26,7 +26,7 @@ All this UI was inspired by [Frontend-Mentor Challanges](https://frontendmentor.
 </p>
 <br>
 
-|Name                            |Code       |Preview     |
+|Name                            |[Code](https://github.com/karuppan-the-pentester/7-days-70-project/)       |[Preview](https://karuppan-the-pentester.github.io/7-days-70-project/)     |
 |--------------------------------|-----------|------------|
 |01-Expanding Cards|[Source](https://github.com/karuppan-the-pentester/7-days-70-project/tree/master/01-Expanding%20Cards/)|[preview](https://karuppan-the-pentester.github.io/7-days-70-project/01-Expanding%20Cards/)|
 |02-Progress Step|[Source](https://github.com/karuppan-the-pentester/7-days-70-project/tree/master/02-Progress%20step/)|[preview](https://karuppan-the-pentester.github.io/7-days-70-project/02-Progress%20step/)|
